@@ -1,5 +1,5 @@
 # 💫 About Me:
-Interested in open-source software, cloud computing, and chatbots
+**Interested in open-source software, cloud computing, and chatbots**
 
 
 ## 🌐 Socials:
