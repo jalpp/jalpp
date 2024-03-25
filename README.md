@@ -20,7 +20,7 @@ I like chess engines, bots, game backends, and cloud systems.
 “Most good programmers do programming not because they expect to get paid or get adulation by the public, but because it is fun to program.” — Linus Torvalds
 ```
 
-Counter for people who sneak peaked at my profile, and leave because they didn't understand what I wrote in my repos ;)
+Counter for people who sneak peaked at my profile, and left because they didn't understand what I wrote in my repos ;)
   
 ![](https://komarev.com/ghpvc/?username=jalpp&color=green)
 
