@@ -4,8 +4,6 @@
 
 <br clear="both">
 
-<img align="right" height="163" src="https://www.pngarts.com/files/8/Happy-Doraemon-PNG-Photo.png"  />
-
 ###
 
 <div align="center">
