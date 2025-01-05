@@ -4,7 +4,7 @@
 
 ## About Me
 
-- 🔭 I’m currently working on ChessDojo's codebase, Chesslise network system, Passdiy and much more!
+- 🔭 I’m currently working on ChessDojo's codebase, Tutor app, Chesslise network system, Passdiy and much more!
 - 🌱 I’m currently learning advanced Typescript, more of AWS cloud and how to write clean code
 - 👯 I’m looking to collaborate on open source projects about cloud
 - 🤔 I’m looking for help with my opensource projects
