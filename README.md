@@ -34,7 +34,7 @@
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=jalpp&repo=chesslise)](https://github.com/jalpp/chesslise)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=jalpp&repo=passdiy)](https://github.com/jalpp/passdiy)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=jackstenglein&repo=chess-dojo-scheduler)](https://github.com/jackstenglein/chess-dojo-scheduler)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=jalpp&repo=chesslisesky)](https://github.com/jalpp/chesslisesky)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=jalpp&repo=core)](https://github.com/jalpp/core)
 
 ## 📫 Connect with Me
 
