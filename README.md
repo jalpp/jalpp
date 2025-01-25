@@ -4,7 +4,7 @@
 
 ## About Me
 
-- 🔭 I’m currently working on ChessDojo's codebase, Tutor app, Chesslise network system, Passdiy and much more!
+- 🔭 I’m currently working on ChessDojo's codebase, Tutor app, Passdiy and much more!
 - 🌱 I’m currently learning advanced Typescript, more of AWS cloud and how to write clean code
 - 👯 I’m looking to collaborate on open source projects about cloud
 - 💬 Ask me about coding, chess, and fun stuff
@@ -40,12 +40,6 @@
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jalp-panchal/)
 [![Bluesky](https://img.shields.io/badge/-Bluesky-1DA1F2?style=flat&logo=bluesky&logoColor=white)](https://bsky.app/profile/nmp123.bsky.social)
 
-
-## 📝 Blog Posts
-
-<!-- BLOG-POST-LIST:START -->
-- [Chesslise breaks free!](https://lichess.org/@/Noobmasterplayer123/blog/chesslise-breaks-free/ywQIrVDo)
-<!-- BLOG-POST-LIST:END -->
 
 ## 🎮 Hobbies & Interests
 
