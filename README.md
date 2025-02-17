@@ -4,9 +4,9 @@
 
 ## About Me
 
-- 🔭 I’m currently working on ChessDojo's codebase, Tutor app, Passdiy and much more!
+- 🔭 I’m currently working on ChessDojo's codebase,Core Tutor app, Passdiy and much more!
 - 🌱 I’m currently learning advanced Typescript, more of AWS cloud and how to write clean code
-- 👯 I’m looking to collaborate on open source projects about cloud
+- 👯 I’m looking to collaborate on open source projects about cloud, AI, and anything thats cool and fun!
 - 💬 Ask me about coding, chess, and fun stuff
 
 
