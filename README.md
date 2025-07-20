@@ -1,5 +1,10 @@
 
-## My Stats
+----------readme.md-----------------
 
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=jalpp&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jalpp&layout=compact&theme=radical)
+I live to code, the day my Github shows all black for months and months Im probably dead. I don't commit for fun, my projects are not for fun they are the reason why I'm alive, those days I don't commit means I'm living a dead life, the days I commit means I'm dying to live.
+
+You don't have to understand this README
+
+LEAVE ME HERE
+
+--------readme.text------------------
